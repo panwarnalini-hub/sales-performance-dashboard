@@ -21,4 +21,4 @@ This project demonstrates an end-to-end data pipeline and dashboard using **PySp
 ## How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/sales-performance-dashboard.git
+   git clone https://github.com/panwarnalini-hub/sales-performance-dashboard.git
