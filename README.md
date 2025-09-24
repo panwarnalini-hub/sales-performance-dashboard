@@ -16,7 +16,7 @@ This project demonstrates an end-to-end data pipeline and dashboard using **PySp
    - Matrix with sparklines for detailed category-region performance
 
 ## Final Dashboard
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 
 ## How to Run
 1. Clone this repo:
