@@ -1,0 +1,51 @@
+orderid,orderdate,category,subcategory,region,quantity,sales,profit
+1,2023-04-17,Technology,Phones,North,8,606.69,-64.55
+2,2023-03-29,Technology,Accessories,North,5,609.09,136.95
+3,2023-12-10,Office Supplies,Binders,West,6,20.76,8.21
+4,2023-09-10,Furniture,Tables,West,9,305.4,51.04
+5,2023-06-24,Office Supplies,Storage,West,3,394.81,153.95
+6,2023-11-03,Furniture,Bookcases,East,7,187.11,-30.12
+7,2023-09-22,Furniture,Tables,West,5,246.28,-13.64
+8,2023-02-04,Technology,Phones,South,1,273.6,54.04
+9,2023-02-23,Office Supplies,Paper,West,4,201.16,76.79
+10,2023-09-27,Office Supplies,Paper,West,8,579.04,65.14
+11,2023-08-25,Office Supplies,Binders,South,2,548.9,83.46
+12,2023-06-06,Furniture,Chairs,East,1,35.32,1.91
+13,2023-03-22,Furniture,Bookcases,North,8,734.43,192.98
+14,2023-02-10,Furniture,Tables,North,7,853.04,59.43
+15,2023-03-03,Furniture,Bookcases,North,8,672.6,104.1
+16,2023-08-15,Office Supplies,Storage,North,5,972.28,300.77
+17,2023-09-12,Furniture,Tables,North,7,59.62,13.5
+18,2023-06-28,Office Supplies,Paper,South,7,485.86,67.03
+19,2023-08-19,Office Supplies,Binders,North,4,944.0,150.4
+20,2023-03-07,Technology,Laptops,South,9,123.38,9.12
+21,2023-05-08,Office Supplies,Paper,North,7,898.17,-8.26
+22,2023-10-10,Furniture,Chairs,East,9,821.65,260.0
+23,2023-05-17,Technology,Laptops,South,5,698.59,-26.79
+24,2023-06-09,Technology,Accessories,West,8,708.96,12.89
+25,2023-09-25,Furniture,Tables,South,7,507.3,-9.88
+26,2023-04-23,Furniture,Chairs,North,2,512.63,-86.69
+27,2023-05-06,Furniture,Chairs,East,2,540.32,37.1
+28,2023-07-22,Office Supplies,Storage,South,8,252.88,59.91
+29,2023-08-28,Furniture,Tables,West,1,167.7,17.59
+30,2023-09-09,Furniture,Bookcases,South,4,36.26,3.89
+31,2023-05-08,Technology,Accessories,South,7,938.0,-110.2
+32,2023-05-31,Furniture,Chairs,West,3,243.98,-23.18
+33,2023-10-31,Furniture,Chairs,West,5,902.41,162.31
+34,2023-05-27,Furniture,Chairs,North,3,859.2,36.69
+35,2023-04-14,Furniture,Bookcases,East,4,589.07,13.77
+36,2023-12-15,Furniture,Bookcases,East,2,177.59,22.95
+37,2023-06-18,Office Supplies,Storage,South,4,717.94,-41.39
+38,2023-05-08,Furniture,Bookcases,North,1,551.69,58.09
+39,2023-08-26,Office Supplies,Storage,West,6,979.32,90.14
+40,2023-10-04,Technology,Accessories,West,1,585.37,55.91
+41,2023-05-27,Furniture,Chairs,South,4,43.83,8.21
+42,2023-02-15,Furniture,Tables,East,5,885.82,220.24
+43,2023-10-29,Furniture,Chairs,East,5,580.85,225.49
+44,2023-06-10,Technology,Phones,East,3,186.1,24.95
+45,2023-11-19,Technology,Laptops,West,8,89.01,-6.64
+46,2023-05-07,Technology,Laptops,North,2,336.1,103.92
+47,2023-06-25,Furniture,Bookcases,West,7,307.72,87.89
+48,2023-01-13,Technology,Laptops,East,7,511.49,142.69
+49,2023-05-22,Furniture,Tables,South,3,351.24,8.9
+50,2023-12-08,Office Supplies,Storage,North,3,476.29,59.82
