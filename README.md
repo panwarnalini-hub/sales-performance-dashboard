@@ -66,13 +66,13 @@ The actual dataset used in the analysis contained more rows and business context
 1. Clone this repo:
    ```bash
    git clone https://github.com/panwarnalini-hub/sales-performance-dashboard.git
-   Open the dataset in your environment (Jupyter, Databricks, or PySpark).
-2. The PySpark scripts handle data cleaning (standardizing columns, converting data types, removing nulls and duplicates).
-3. Export the cleaned dataset as instructed in the notebook/script.
-4. Open the Power BI file:
-5. Download the .pbix file from this repo.
-6. Open it in Power BI Desktop.
-7. Connect it to the cleaned dataset (CSV/Parquet).
-8. Explore the dashboard:  
+2. Open the dataset in your environment (Jupyter, Databricks, or PySpark).  
+   The PySpark scripts handle data cleaning (standardizing columns, converting data types, removing nulls and duplicates).  
+   Export the cleaned dataset as instructed in the notebook/script.  
+3. Open the Power BI file:  
+   Download the .pbix file from this repo.  
+   Open it in Power BI Desktop.  
+   Connect it to the cleaned dataset (CSV/Parquet).  
+4. Explore the dashboard:  
    Review KPIs, Sales Growth %, Regional and Category Trends.  
    Drill through to explore insights.
